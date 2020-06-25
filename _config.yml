@@ -1,0 +1,4 @@
+title: moeb98 - my github pages site
+sass:
+        sass_dir: _sass
+        style: compressed
