@@ -1,5 +1,5 @@
 
-## smart home ... home lab ... containerization ... ssl proxy ... wordpress themes  
+## smart home - home labs - containers - ssl proxy - wordpress themes  
 
 Hello world!
 
