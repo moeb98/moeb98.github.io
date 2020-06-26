@@ -1,5 +1,5 @@
 
-## smart home ... home lab ... containerization... web content management ... wordpress themes  
+## smart home ... home lab ... containerization ... web content management ... wordpress themes  
 
 Hello world!
 
