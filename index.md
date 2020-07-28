@@ -6,11 +6,13 @@ that's what you will find in my github repositories.
 ## moe lab
 
 This repository provides various Docker containers that are based
-on docker-compose. Each of the containers can be fired up using
+on docker-compose. Applications provided are as follows:
 
-```bash
-docker-compose up -d
-```
+- Wordpress Content Management System
+- Nextcloud Private Cloud
+- Traefik Proxy with SSL Encryption (via Let's Encrypt)
+- Portainer Container Management
+- Ouroboros Automatic Image Updates
 
 All the applications are proxied via traefik 2.0 which takes care
 of SSL encryption. Thus, all frontend applications are connected
@@ -24,4 +26,10 @@ files:
 ```bash
 docker network create traefik_proxy
 docker network create backend
+```
+
+Each of the containers can now be fired up using
+
+```bash
+docker-compose up -d
 ```
