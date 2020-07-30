@@ -1,4 +1,4 @@
-# smart home - private cloud - docker - ssl proxy - wordpress   
+# smart home - private cloud - docker - ssl proxy - wordpress
 
 The title says it all:
 that's what you will find in my github repositories.
