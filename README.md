@@ -1,3 +1,3 @@
-# moeb98
+# github pages
 
-My GitHub Pages page - under construction
+Repository for Github Pages site to be found under <https://moeb98.github.io/>
