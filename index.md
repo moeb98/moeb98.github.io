@@ -47,3 +47,10 @@ improving the responsive design for different (mobile) devices.
 
 You can find the repository under
 <https://github.com/moeb98/fotografie-child>.
+
+## smart home
+
+My smart home is based on node-red and includes Philips Hue,
+Shelly, Osram Lightify, Logitech Harmony, Zigbee including a
+Zigbee USB stick on Raspberry Pi. Repo is still private, stay
+tuned...
