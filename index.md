@@ -50,7 +50,7 @@ You can find the repository under
 
 ## smart home
 
-My smart home is based on node-red and includes Philips Hue,
-Shelly, Osram Lightify, Logitech Harmony, Gardena Smart Home,
+This smart home solution is based on node-red and includes Philips
+Hue, Shelly, Osram Lightify, Logitech Harmony, Gardena Smart Home,
 openweathermap, Zigbee including a Zigbee USB stick on a Raspberry
 Pi. Repo is still private, stay tuned...
