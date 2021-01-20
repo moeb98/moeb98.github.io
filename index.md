@@ -53,4 +53,8 @@ You can find the repository under
 This smart home solution is based on node-red and includes Philips
 Hue, Shelly, Osram Lightify, Logitech Harmony, Gardena Smart Home,
 openweathermap, Zigbee including a Zigbee USB stick on a Raspberry
-Pi. Repo is still private, stay tuned...
+Pi. It is deployed fully as a docker image that can be fired up
+with a corresponding docker-compose file.
+
+You can find the repository under
+<https://github.com/moeb98/moe-smart-home>.
