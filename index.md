@@ -12,6 +12,7 @@ Applications provided are as follows:
 - Wordpress - Content Management System
 - Nextcloud - Private Cloud
 - Traefik - Proxy with SSL Encryption (via Let's Encrypt)
+- Piwigo - Web Gallery
 - Portainer - Container Management
 - Ouroboros - Automatic Image Updates
 
