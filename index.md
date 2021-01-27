@@ -59,3 +59,13 @@ with a corresponding docker-compose file.
 
 You can find the repository under
 <https://github.com/moeb98/moe-smart-home>.
+
+## command-powershell
+
+This repository contains color coding for standard Windows 10
+command prompt and registry keys for the context menu to open command
+prompt or PowerShell in the directory the context menu was opened
+(with Shift + right click).
+
+You can find the repository under
+<https://github.com/moeb98/command-powershell>
