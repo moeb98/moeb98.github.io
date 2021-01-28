@@ -69,3 +69,16 @@ prompt or PowerShell in the directory the context menu was opened
 
 You can find the repository under
 <https://github.com/moeb98/command-powershell>
+
+## myPySummary
+
+Console tool which reads long texts from `stdin` and outputs a summary of five sentences to `stdout`.
+
+Example usage:
+
+```bash
+cat document.txt | python summarize.py
+```
+
+You can find the repository under
+<https://github.com/moeb98/myPySummary>.
