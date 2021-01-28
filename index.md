@@ -72,7 +72,8 @@ You can find the repository under
 
 ## myPySummary
 
-Console tool which reads long texts from `stdin` and outputs a summary of five sentences to `stdout`.
+Console tool which reads long texts from `stdin` and outputs a summary
+of five sentences to `stdout`.
 
 Example usage:
 
