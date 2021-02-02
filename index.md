@@ -39,6 +39,9 @@ Each of the containers can now be fired up using
 docker-compose up -d
 ```
 
+The detailed documentation of the project can be found under
+<https://www.eberlein.tk/me-doc>
+
 ## fotografie child theme
 
 fotografie is a great wordpress theme for a photography portfolio.
